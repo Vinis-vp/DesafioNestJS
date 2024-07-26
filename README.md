@@ -1,5 +1,7 @@
 
 =======
+=======
+>>>>>>> 533df522c06a59e0214541eead84dbef05b45695
 # Documentação de execução
 
 * Certifique-se que tenha instalado o Node.js, MySQL e o Git.
@@ -8,4 +10,7 @@
 * Instale as dependências do projeto com o comando "npm install".
 * Execute o projeto com o comando "npm run start".
 * Teste a API usando ferramentas como o Postman ou ThunderClient.
+<<<<<<< HEAD
 >>>>>>> 310235dcd4f2532f671609e5c27a7012c3087f7a
+=======
+>>>>>>> 533df522c06a59e0214541eead84dbef05b45695
